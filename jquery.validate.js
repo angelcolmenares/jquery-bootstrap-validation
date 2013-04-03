@@ -1,11 +1,11 @@
 /*!
- * jQuery Validation Plugin 1.12.0pre
+ * jQuery Bootstrap Validation Plugin 1.12.1
  *
  * http://bassistance.de/jquery-plugins/jquery-plugin-validation/
  * http://docs.jquery.com/Plugins/Validation
  *
- * Copyright 2013 Jörn Zaefferer
- * Released under the MIT license:
+ * Copyright 2013 Jörn Zaefferer and Jeff Johnson
+  * Released under the MIT license:
  *   http://www.opensource.org/licenses/mit-license.php
  */
 
